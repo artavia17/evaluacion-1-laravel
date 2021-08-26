@@ -1,0 +1,18 @@
+body{
+	margin:  0px;
+	padding: 0px;
+
+}
+
+
+#fondo{
+	display: flex;
+	justify-content: center;
+}
+
+
+
+canvas{
+	margin-top: 5%;
+	background-color: black;
+}
